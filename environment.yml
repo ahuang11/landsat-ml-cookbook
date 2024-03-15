@@ -13,14 +13,14 @@ dependencies:
   - odc-stac
   - ipykernel
   - hvplot
-  - panel
+  - panel<1.4.0
   - geoviews
   - datashader
   - colorcet
-  - intake
+  - intake>2.0.4
   - intake-xarray
   - xarray<2023.04
-  - bokeh
+  - bokeh<3.4.0
   - dask
   - dask-ml
   - pandas
